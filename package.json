@@ -12,12 +12,7 @@
       "url": "http://www.paramquery.com/"
     }
   ],
-  "licenses": [
-    {
-      "type": "GPL v3",
-      "url": "http://paramquery.com/license"
-    }
-  ],
+  "license": "GPL-3.0",
   "description": "jQuery plugin to select multiple or single options with checkboxes, radio buttons, with support for search, grouping, disabled options and jQueryUI themeRoller ready.",
   "homepage": "http://paramquery.com/select",
   "repository": {
